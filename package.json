@@ -1,0 +1,14 @@
+{
+  "name": "mts-streams-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot automatizado para o serviço MTS STREAMS utilizando Venom Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^4.1.2"
+  }
+}
